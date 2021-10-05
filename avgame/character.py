@@ -1,11 +1,11 @@
-from typing import Optional
 from typing import Literal
+from typing import Optional
 
-from avgame.weapon.weaponbehavior import WeaponBehavior
 from avgame.weapon.axebehavior import AxeBehavior
-from avgame.weapon.swordbehavior import SwordBehavior
 from avgame.weapon.bowandarrowbehavior import BowAndArrowBehavior
 from avgame.weapon.knifebehavior import KnifeBehavior
+from avgame.weapon.swordbehavior import SwordBehavior
+from avgame.weapon.weaponbehavior import WeaponBehavior
 
 
 class Character:

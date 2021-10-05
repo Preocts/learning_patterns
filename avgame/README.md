@@ -15,4 +15,3 @@ The `Character` superclass is defined with the setter method for choosing a beha
 **The interface is completely encapsulated!**
 
 Finally, the bulk of the code goes into `Character` which the children classes; Knight, King, Queen, and Troll; inheriting. They, then, set their weapon of choice and have full use of the pattern.
-

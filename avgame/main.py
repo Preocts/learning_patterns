@@ -1,6 +1,6 @@
-from avgame.queen import Queen
 from avgame.king import King
 from avgame.knight import Knight
+from avgame.queen import Queen
 from avgame.troll import Troll
 
 
